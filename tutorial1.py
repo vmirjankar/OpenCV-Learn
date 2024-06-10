@@ -8,5 +8,5 @@ cv2.imwrite('new_img.jpg',img) #write the new image
 
 
 cv2.imshow('IMAGE',img) #display the image
-cv2.waitKey(0) #waits for specified time in seconds for a key 
+cv2.waitKey(0) #waits for specified time for a key 
 cv2.destroyAllWindows() #destroys all windows
